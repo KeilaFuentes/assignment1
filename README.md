@@ -1,5 +1,8 @@
-# Getting Started with Create React App
+# Assignment 1: Time to practice- The Base Syntax
+This is the first assignment of the udemy course called React-complete Guide(incl Hooks, React Router, Redux)
+Link [https://www.udemy.com/course/react-the-complete-guide-incl-redux/](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
+## Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
