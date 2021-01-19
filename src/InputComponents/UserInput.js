@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const userInput=()=>{
     return(
         <div>
@@ -7,4 +8,6 @@ const userInput=()=>{
         </div>
     )
 };
+
+export default userInput;
 
