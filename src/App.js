@@ -12,6 +12,13 @@ function App() {
     otherState:'some other value'
   });
 
+  const switchHandleName=()=>{
+    setUserState({
+      user:[
+        {name:'Esmeralda'}
+      ]
+    });
+  };
 
   return (
     <div className="App-header" > 
